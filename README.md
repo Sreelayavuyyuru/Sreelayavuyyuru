@@ -9,7 +9,7 @@ const Laya = {
                  - 📫 How to reach me sreelayavuyyuru@gmail.com
                  - ⚡ Fun fact I can sometimes love books more than people
   ],
-  Education : [{ Collge: Keshav Memorial Instittute of Technology 
+  Education : [{ College: Keshav Memorial Instittute of Technology 
                 Year : 2019-2023 }],
   Trying to Master : ['Open source skills', 
             'ML', 'Competitive Programming skills' ]
