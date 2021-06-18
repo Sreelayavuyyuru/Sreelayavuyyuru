@@ -5,9 +5,9 @@
 ```javascript
 const Laya = {
   Pronouns: "she" | "her",
-  Description : [- 💬 Ask me about C++,
-                 - 📫 How to reach me sreelayavuyyuru@gmail.com
-                 - ⚡ Fun fact I can sometimes love books more than people
+  Description : [- 💬 Ask me about: C++, Web Development
+                 - 📫 How to reach me: sreelayavuyyuru@gmail.com
+                 - ⚡ Fun fact: I can sometimes love books more than people
   ],
   Education : [{ College: Keshav Memorial Institute of Technology 
                 Year : 2019-2023 }],
@@ -18,7 +18,7 @@ const Laya = {
 
 ***
 ## :1st_place_medal: **Skills** 
-**Web Development, Competitive Coding & Content Writing.**
+**Web Development, Coding & Content Writing.**
 ***
 ## :computer: Languages and Framework 
 
