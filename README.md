@@ -27,10 +27,11 @@ const Laya = {
 ***
 ## Github Stats
 <details>
-<summary>📊 See my stats!</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreelayavuyyuru&" alt="PowerCoder | Stats" />
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreelayavuyyuru&layout=compact" width="350" height="250" >
+<summary> 👈🏻 Click here to see my Github Stats! 📊 </summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreelayavuyyuru&" alt="PowerCoder | Stats" width="500" height="300"/>
+<p align="center"> Welcome to my Github Stats! </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreelayavuyyuru&layout=compact" width="350" height="300" >
 </div>
 
 <div align="center">
