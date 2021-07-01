@@ -1,4 +1,4 @@
-<h3 align="center"> < Hello world, I'm <a href="" target="_blank">Sreelaya Vuyyuru</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h3 align="center"> < Hello world, I'm <a>Sreelaya Vuyyuru</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <h3 align="center">I write for fun ✍ Sometimes articles, mostly Code.</h3>
 
