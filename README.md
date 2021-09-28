@@ -7,7 +7,6 @@ const Laya = {
   Pronouns: "she" | "her",
   Description : [- 💬 Ask me about: C++, Web Development
                  - 📫 How to reach me: sreelayavuyyuru@gmail.com
-                 - ⚡ Fun fact: I can sometimes love books more than people
   ],
   Education : [{ College: Keshav Memorial Institute of Technology 
                 Year : 2019-2023 }],
