@@ -4,7 +4,6 @@
 
 ```javascript
 const Laya = {
-  Pronouns: "she" | "her",
   Description : [- 💬 Ask me about: C++, Web Development
                  - 📫 How to reach me: sreelayavuyyuru@gmail.com
   ],
